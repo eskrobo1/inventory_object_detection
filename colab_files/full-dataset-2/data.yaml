@@ -31,5 +31,5 @@ roboflow:
   version: 2
   workspace: inventorydetection
 test: ../test/images
-train: full-dataset-2/train/images
-val: full-dataset-2/valid/images
+train: /content/inventory_object_detection/colab_files/full-dataset-2/train/images
+val: /content/inventory_object_detection/colab_files/full-dataset-2/valid/images
