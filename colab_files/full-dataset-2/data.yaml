@@ -1,0 +1,35 @@
+names:
+- 7up bottle
+- 7up can
+- Red Bull bottle
+- Red Bull can
+- box
+- coca cola bottle
+- coca cola can
+- fanta bottle
+- fanta can
+- fructal bottle
+- fructal tetrapak
+- juicy tetrapak
+- master tetrapak
+- mirinda bottle
+- mirinda can
+- pepsi bottle
+- pepsi can
+- rauch bottle
+- sprite bottle
+- sprite can
+- takovo tetrapak
+- to tetrapak
+- undefined
+- verde tetrapak
+nc: 24
+roboflow:
+  license: CC BY 4.0
+  project: full-dataset-qg8wt
+  url: https://universe.roboflow.com/inventorydetection/full-dataset-qg8wt/dataset/2
+  version: 2
+  workspace: inventorydetection
+test: ../test/images
+train: full-dataset-2/train/images
+val: full-dataset-2/valid/images
